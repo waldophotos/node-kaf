@@ -18,7 +18,7 @@ npm install @waldo/kaf -g
 After you install type `kaf` on your cli:
 
 ```shell
-kaf
+kaf -h
 ```
 
 
