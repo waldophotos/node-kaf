@@ -1,6 +1,6 @@
 {
   "name": "@waldo/kaf",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "./lib/kaf",
   "description": "\"kaf\" Command line tool for consuming kafka messages deserialized with avro.",
   "homepage": "https://github.com/waldo/node-kaf",
