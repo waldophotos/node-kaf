@@ -23,6 +23,7 @@
   "scripts": {
     "test": "mocha -b test/spec && eslint lib/**"
   },
+  "preferGlobal": true,
   "bin": {
     "kaf": "./lib/boot-cli.js"
   },
