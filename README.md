@@ -32,7 +32,7 @@ kaf -h
 
 ## Release History
 
-- **v0.0.1**, *TBD*
+- **v0.0.1**, *28 Feb 2017*
     - Big Bang
 
 ## License
